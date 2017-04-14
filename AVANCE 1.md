@@ -11,6 +11,7 @@
 **Análsis de datos propios**. Los datos con los que trabajaré son datos generados durante mi investigación.
 
 - preprocesamiento de secuencias crudas de virus aislados
+- BLAST de las secuencias obtenidas con las de referencia 
 - construcción de árboles filogenéticos 
 - elaboración de análsis y gráficas en **R**
 
